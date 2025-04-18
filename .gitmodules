@@ -1,0 +1,16 @@
+[submodule "VoxelEngine-Module-UI"]
+	path = VoxelEngine-Module-UI
+	url = https://github.com/CP-IATE/VoxelEngine-Module-UI.git
+	branch = main
+[submodule "VoxelEngine-Module-Geometry"]
+	path = VoxelEngine-Module-Geometry
+	url = https://github.com/CP-IATE/VoxelEngine-Module-Geometry.git
+	branch = main
+[submodule "VoxelEngine-Module-Net"]
+	path = VoxelEngine-Module-Net
+	url = https://github.com/CP-IATE/VoxelEngine-Module-Net.git
+	branch = main
+[submodule "VoxelEngine-Module-Physics"]
+	path = VoxelEngine-Module-Physics
+	url = https://github.com/CP-IATE/VoxelEngine-Module-Physics.git
+	branch = main
